@@ -2,6 +2,13 @@
 
 This is a simple mobile app that extract text from images 
 
+<img src="https://github.com/Mahekb/OCRApp/blob/main/screenshots/Screen1.jpg" width="240" style="display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
+  <img src="https://github.com/Mahekb/OCRApp/blob/main/screenshots/Screen1.jpg" width="240" style="display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
+
 # Features
   - Image to text
 
